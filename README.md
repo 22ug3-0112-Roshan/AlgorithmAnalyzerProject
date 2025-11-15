@@ -1,17 +1,6 @@
 # AlgorithmAnalyzerProject
 CIT300 Graded Practical Assignment 3 (Week 14): Algorithm Analyzer – Measuring Performance &amp; Complexity
 <div align="center">
-
-# 📘 CIT300 – Algorithm Analyzer  
-### ⏱️ Performance & Complexity Measurement (Week 14 Assignment)
-
-![Java](https://img.shields.io/badge/Java-Programming-orange)
-![Algorithms](https://img.shields.io/badge/Algorithms-Sorting%20%26%20Searching-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/Use-Academic-lightgrey)
-
-</div>
-
 ---
 
 ## 🚀 **Project Overview**
@@ -36,10 +25,10 @@ The aim is to understand:
 
 | Member | Task | Algorithm Type |
 |--------|------|----------------|
-| **Member 1** | Linear Search | Searching |
-| **Member 2** | Binary Search (after sorting) | Searching |
-| **Member 3** | Bubble Sort | Sorting |
-| **Member 4** | Quick Sort | Sorting |
+| **Member 1** = W.M.D.D.WANNINAYAKA ( 22UG3-0264) | Linear Search | Searching |
+| **Member 2** = D.M.S.U.DISSANAYAKA (22UG3-0342)| Binary Search (after sorting) | Searching |
+| **Member 3** = W.M.A.N.MADUMALI ( 22UG3-0440) | Bubble Sort | Sorting |
+| **Member 4** = R.R.R.L.KULARATHNA (22UG3-0112) | Quick Sort | Sorting |
 
 ---
 
